@@ -53,4 +53,4 @@ JSON/CSV dosya formatı ile dışa aktarım
 
 Veritabanı entegrasyonu (SQLite)
 
-Bu çıktıyı:
+
