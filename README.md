@@ -1,5 +1,7 @@
 ﻿# InternManagmentSystem
 💼 Proje Adı: Stajyer Yönetim Sistemi
+
+
 🧠 Proje Açıklaması:
 Bu proje, bir şirketin stajyerlerini yönetmesini sağlayan basit ama etkili bir sistemdir. Kullanıcı, stajyer ekleyebilir, silebilir, belirli bir ID ile arama yapabilir ve tüm stajyer bilgilerini görüntüleyebilir.
 
