@@ -1,13 +1,13 @@
 ﻿# InternManagmentSystem
-💼 Proje Adı: Stajyer Yönetim Sistemi
+ Proje Adı: Stajyer Yönetim Sistemi
 
 
 
 
-🧠 Proje Açıklaması:
+ Proje Açıklaması:
 Bu proje, bir şirketin stajyerlerini yönetmesini sağlayan basit ama etkili bir sistemdir. Kullanıcı, stajyer ekleyebilir, silebilir, belirli bir ID ile arama yapabilir ve tüm stajyer bilgilerini görüntüleyebilir.
 
-🛠️ Kullanılan Teknolojiler:
+🛠 Kullanılan Teknolojiler:
 C++
 
 Object-Oriented Programming (OOP)
@@ -18,7 +18,7 @@ Dosya İşlemleri (fstream)
 
 Konsol tabanlı kullanıcı arayüzü
 
-📚 Öğrenilen/Kullanılan Konular:
+ Öğrenilen/Kullanılan Konular:
 Sınıf tasarımı ve nesne yönelimli mantık
 
 Fonksiyonel yapı oluşturma
@@ -29,7 +29,7 @@ Dosyaya veri kaydetme ve okuma
 
 ID ile arama, silme ve veri listeleme
 
-🧩 Temel Özellikler:
+ Temel Özellikler:
 Stajyer ekleme (isim, soyisim, meslek, tarih, ID)
 
 ID ile stajyer arama
@@ -42,7 +42,7 @@ Verileri dosyaya kaydetme ve yükleme
 
 Konsol menü tabanlı arayüz
 
-📁 Geliştirme İmkanları:
+Geliştirme İmkanları:
 Tarih formatı doğrulama ve karşılaştırma
 
 Güncelleme özelliği eklenmesi
